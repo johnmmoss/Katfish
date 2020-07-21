@@ -24,6 +24,7 @@ namespace katfish.co.uk
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/hero.css",
                       "~/Content/site.css"));
         }
     }
